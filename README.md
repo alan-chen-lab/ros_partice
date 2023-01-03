@@ -1,13 +1,15 @@
 ### create the workspace
 ```
+1.
 mkdir -p ~/your_ws_name/src
 cd your_ws_name/src/
 catkin_init_workspace
 cd ..     
 catkin_make
 
+2.
 cd your_ws_name/src/
-git clone....
+git clone git@github.com:alan-chen-lab/ros_practice.git
 cd ..
 catkin_make
 ```
