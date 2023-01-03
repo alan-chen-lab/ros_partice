@@ -18,7 +18,7 @@ catkin_make
 1. roslaunch example practice_launch.launch
 2. rosrun example pub_lowthreshold
 ```
-### canny_opencv
+### canny_opencv ros
 1. [ROS_wiki] [1]
 2. [ROS_wiki] [2]
 3. [opencv_wiki] [3]
