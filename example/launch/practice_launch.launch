@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+
+<launch>
+    <node pkg="example" type="capture_image_pub" name="capture_image_pub" output="screen" required="true"></node>
+    <node pkg="example" type="process_canny" name="process_canny" output="screen" required="true"></node>
+</launch>
