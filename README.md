@@ -9,7 +9,7 @@ catkin_make
 
 2.
 cd your_ws_name/src/
-git clone git@github.com:alan-chen-lab/ros_practice.git
+git clone https://github.com/alan-chen-lab/ros_practice.git
 cd ..
 catkin_make
 ```
